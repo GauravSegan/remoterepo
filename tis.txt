@@ -1,5 +1,0 @@
-r
-d
-first file
-new changes sha sha 
-another line newset
